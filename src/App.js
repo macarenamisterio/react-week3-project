@@ -1,4 +1,4 @@
-import Search from "./Search.js";
+import Search from "./Search";
 import "./App.css";
 
 function App() {
@@ -6,15 +6,6 @@ function App() {
 		<div className="App">
 			<h1>Weather Search</h1>
 			<Search />
-			<p>
-				Open source
-				<a
-					href="https://github.com/macarenamisterio/react-week3-project"
-					target="a_blank">
-					code
-				</a>
-				created by Macarena Misterio
-			</p>
 		</div>
 	);
 }
