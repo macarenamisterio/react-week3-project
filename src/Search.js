@@ -9,7 +9,13 @@ export default function Search() {
 			/>
 			<button type="submit">Search</button>
 			<p>
-				Open source <a>code</a> created by Macarena Misterio.
+				Open source{" "}
+				<a
+					href="https://github.com/macarenamisterio/react-week3-project"
+					target={a_blank}>
+					code
+				</a>{" "}
+				created by Macarena Misterio.
 			</p>
 		</form>
 	);
