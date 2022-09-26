@@ -12,7 +12,8 @@ export default function Search() {
 				Open source{" "}
 				<a
 					href="https://github.com/macarenamisterio/react-week3-project"
-					target={a_blank}>
+					target="_blank"
+					rel="noopener noreferrer">
 					code
 				</a>{" "}
 				created by Macarena Misterio.
