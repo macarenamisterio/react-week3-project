@@ -8,6 +8,7 @@ export default function Search() {
 				name="search"
 			/>
 			<button type="submit">Search</button>
+			Open source <a>code</a> created by Macarena Misterio.
 		</form>
 	);
 }
